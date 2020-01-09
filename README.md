@@ -4,16 +4,16 @@ The TECH MP3 Player is a simple programme that allows users to play any kind of 
 # Functionality
 The below list is showing the main functionality of the TECH MP3 Player.
 
-•	Add / Remove Songs
+-	Add / Remove Songs
 This player allows users to add new songs to the existing or new Playlist and also there is a remove button to delete unwanted tracks from the playlist.
 
-•	Save playlist
+-	Save playlist
 Users had to add and play songs every time they turn on the music player because of that there is a Save button to save the current Playlist. After saving the playlist you can access this playlist any time with this music player.
 
-•	Shuffle and Repeat Functions
+-	Shuffle and Repeat Functions
 There are two buttons to shuffle and repeat. The shuffle function will shuffle and play the song in the playlist randomly. As usually repeat button can repeat the whole music playlist again and again.
 
-•	Previous / Next Functions and the Sound Controller
+-	Previous / Next Functions and the Sound Controller
 There are next and previous buttons to navigate between songs and select your song, As usual, music players there is a sound controller to change sound range and also there is a one-click mute button to mute the song.
 
 # Known Bugs
@@ -22,6 +22,14 @@ There are next and previous buttons to navigate between songs and select your so
    saved playlist can be corrupt the whole Player.
    
   - Songs cannot be fast forward or backword.
+  
+# Supported Platforms
+
+This application has been successfully compiled and run on the following platforms.
+- Ubuntu 18.04
+- Windows 10
+- Mac OS
+
   
 # Screenshots
 - Windows
