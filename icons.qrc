@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Playericons/icons8-pause-30.png</file>
+        <file>Playericons/icons8-play-30.png</file>
+        <file>Playericons/icons8-audio-30.png</file>
+        <file>Playericons/icons8-less-than-30.png</file>
+        <file>Playericons/icons8-more-than-30.png</file>
+        <file>Playericons/icons8-mute-30.png</file>
+        <file>Playericons/icons8-shuffle-30.png</file>
+        <file>Playericons/icons8-repeat-30.png</file>
+        <file>Playericons/icons8-minus-30.png</file>
+        <file>Playericons/icons8-plus-30 (1).png</file>
+        <file>Playericons/icons8-save-30.png</file>
+        <file>Playericons/icons8-search-30.png</file>
+        <file>Playericons/icons8-music-record-64.png</file>
+    </qresource>
+</RCC>
